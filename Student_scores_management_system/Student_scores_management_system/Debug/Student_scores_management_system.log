@@ -1,0 +1,4 @@
+﻿  Function_module.cpp
+D:\c\source\repos\Student achievement management system\Student achievement management system\Function_module.cpp(189,9): warning C4101: “j”: 未引用的局部变量
+D:\c\source\repos\Student achievement management system\Student achievement management system\Function_module.cpp(205,9): warning C4101: “j”: 未引用的局部变量
+  Student achievement management system.vcxproj -> D:\c\source\repos\Student achievement management system\Debug\Student achievement management system.exe
